@@ -1,2 +1,2 @@
-# lam_angel_laboratorio_6
-Laboratorio #6 - Continuación de ejemplos de ExpressJS
+# module_pattern_example
+Ejemplo de patrón basado en módulos
