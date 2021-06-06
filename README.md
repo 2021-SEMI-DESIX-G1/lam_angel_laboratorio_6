@@ -1,4 +1,4 @@
-# Laboratior 6 - Continuación de ejemplos de ExpressJS
+# Laboratorio 6 - Continuación de ejemplos de ExpressJS
 Objetivos:
 Complementar funcionalidad de un código construido. <br>
 I. Resolver.
